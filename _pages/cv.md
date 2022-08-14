@@ -7,11 +7,12 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 <object data="../files/Swanie_Juhng_CV.pdf" width="1000" height="1000" type='application/pdf'/></object>
 
-<!-- {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014

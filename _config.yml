@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Swanie Juhng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Swanie Juhng"
 description              : &description "personal description"
 url                      : https://swaniejuhng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sjuhng <at> cs <dot> stonybrook <dot> edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

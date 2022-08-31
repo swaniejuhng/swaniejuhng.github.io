@@ -49,8 +49,8 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-I am a third-year PhD candidate in the Computer Science Department at Stony Brook University, currently working with [Prof. H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/). I received my Bachelor's Degree in Business Administration and Computer Science from Sogang University.\
-My research interest lies in applying NLP and Machine Learning techniques to solving Psychology problems, specifically depression and anxiety.
+I am a third-year PhD candidate in the Computer Science Department at Stony Brook University. I received my Bachelor's Degree in Business Administration and Computer Science from Sogang University in 2020.\
+I am currently working with [Prof. H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/). My research interest lies in applying NLP and Machine Learning techniques to solving Psychology problems, specifically depression and anxiety.
 
 Updates
 ------

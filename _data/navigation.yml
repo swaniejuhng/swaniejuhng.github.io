@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Etc."
+  - title: "Etc"
     url: /etc/
-    
+
   - title: "Guide"
     url: /markdown/

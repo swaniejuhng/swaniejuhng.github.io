@@ -22,7 +22,6 @@ I like listening to classical music. I've been getting requests from several fri
     * [Piano Concerto no. 3](https://youtu.be/s0rabZPksYM)
     * [Piano Concerto no. 2](https://songwhip.com/daniil-trifonov/destination-rachmaninov-departure)
     * [Sonata for Cello and Piano](https://songwhip.com/yo-yo-ma/rachmaninoff-prokofiev-cello-sonatas-remastered)
-    * [Moments Musicaux](https://music.apple.com/us/album/rachmaninov-moments-musicaux/56511358)
 
 * Ravel
     * [La Valse](https://songwhip.com/berliner-philharmoniker-2/ravel-la-valse-m-72-choreographic-poem-for-orchestra-la-valse)

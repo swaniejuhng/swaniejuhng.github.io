@@ -9,8 +9,6 @@ redirect_from:
 ## Classical Music
 
 I like listening to classical music. I've been getting requests from several friends to recommend pieces for beginners to listen to, so here it is:
-1. My selection is heavily biased towards piano music 😆
-2. I cannot guarantee that these pieces are easy to listen to, but you'll find charm in them if you invest enough time ❤️
 
 * Chopin
     * [Andante spianato et Grande polonaise brilliante](https://youtu.be/AO6k_ipgEsI)
@@ -52,7 +50,7 @@ I like listening to classical music. I've been getting requests from several fri
 * Bach
     * [Goldberg Variations (Arranged for String Quartet)](https://songwhip.com/quatuorardeo/bach-goldberg-variations-arr-f-meimoun-for-string-quartet)
     * [Violin Partita no. 3](https://songwhip.com/hilary-hahn/hilary-hahn-plays-bach)
-    * [Sheep May Safely Graze)](https://songwhip.com/johann-sebastian-bach/sheep-may-safely-graze-bwv-208-arr-egon-petri)
+    * [Sheep May Safely Graze](https://songwhip.com/johann-sebastian-bach/sheep-may-safely-graze-bwv-208-arr-egon-petri)
 
 * Fauré
     * [Pavane](https://songwhip.com/gabrielfaure/faurepavaneop50)

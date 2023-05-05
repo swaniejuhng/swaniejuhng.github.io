@@ -54,5 +54,5 @@ I am currently working with [Prof. H. Andrew Schwartz](https://www3.cs.stonybroo
 
 Updates
 ------
-* (May 2023) Two papers got accepted to ACL 2023. I'll be attending in person. See you in Toronto!
+* (May 2023) Two papers "Discourse-Level Representations can Improve Prediction of Degree of Anxiety" and "Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge" got accepted to ACL 2023. I'll be attending in person. See you in Toronto!
 * (Jun 2022) I passed the [Research Proficiency Exam](https://www.cs.stonybrook.edu/students/Graduate-Studies/PhDProgram) and upgraded to PhD Candidate.

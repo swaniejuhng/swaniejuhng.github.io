@@ -56,4 +56,4 @@ Updates
 ------
 * **July 2023** Our paper ["Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge"](https://aclanthology.org/2023.acl-long.665/) received the Outstanding Paper Award at [ACL 2023](https://2023.aclweb.org). Big thanks to the collaborators, reviewers, and the Best Paper Committee for this honor!
 * **May 2023** Two papers ["Discourse-Level Representations can Improve Prediction of Degree of Anxiety"](https://aclanthology.org/2023.acl-short.128/) and ["Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge"](https://aclanthology.org/2023.acl-long.665/) got accepted to [ACL 2023](https://2023.aclweb.org). I'll be attending in person. See you in Toronto!
-* **June 2022** I passed the [Research Proficiency Exam](https://www.cs.stonybrook.edu/students/Graduate-Studies/PhDProgram) and is now a PhD Candidate.
+* **June 2022** I passed the [Research Proficiency Exam](https://www.cs.stonybrook.edu/students/Graduate-Studies/PhDProgram) and am now a PhD Candidate.

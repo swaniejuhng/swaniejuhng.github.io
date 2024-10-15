@@ -55,7 +55,7 @@ Before pursuing PhD, I received my Bachelor's Degree in Business Administration 
 
 Updates
 ------
-* **March 2024** I am excited to announce that I will be a Software Engineer (Machine Learning) Intern at Meta New York City this summer. I will be joining the AI Creation team.
+* **August 2024** This summer I worked at Meta in the NYC office as a Software Engineer (Machine Learning) Intern. I worked on generating personalized content for Facebook users by applying NLP techniques.
 * **July 2023** Our paper ["Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge"](https://aclanthology.org/2023.acl-long.665/) received the Outstanding Paper Award at [ACL 2023](https://2023.aclweb.org). Big thanks to the collaborators, reviewers, and the Best Paper Committee for this honor!
 * **May 2023** Two papers ["Discourse-Level Representations can Improve Prediction of Degree of Anxiety"](https://aclanthology.org/2023.acl-short.128/) and ["Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge"](https://aclanthology.org/2023.acl-long.665/) got accepted to [ACL 2023](https://2023.aclweb.org). I'll be attending in person. See you in Toronto!
 * **June 2022** I passed the [Research Proficiency Exam](https://www.cs.stonybrook.edu/students/Graduate-Studies/PhDProgram) and am now a PhD Candidate.
